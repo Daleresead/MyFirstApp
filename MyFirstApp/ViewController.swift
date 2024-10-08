@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func ButtonTapped(_ sender: Any) {
        
-        view.backgroundColor = .systemPink
+        view.backgroundColor = .black
         MainText.text = "Hi there"
         MainText.textColor = .label
         MainText.textAlignment = .center
